@@ -1,4 +1,4 @@
-### Hi there 👋
+<figure><embed src="https://wakatime.com/share/@d2dab806-cb58-415b-a121-2da8d51d393b/983dfe42-9c14-4486-b022-f2bb37c4314e.svg"></embed></figure>
 
 <!--
 **Gnkgo/gnkgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
