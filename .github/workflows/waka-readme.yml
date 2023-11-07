@@ -24,7 +24,7 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
-          TARGET_SECTION: waka-all-time
+          SECTION_NAME: waka-all-time
           LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
@@ -50,7 +50,7 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: python # optional
           TIME_RANGE: last_7_days # optional
-          TARGET_SECTION: waka-last-7-days
+          SECTION_NAME: waka-last-7-days
           LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
