@@ -23,7 +23,7 @@ jobs:
           BLOCKS: -> # optional
           CODE_LANG: python # optional
           TIME_RANGE: all_time # optional
-          SECTION_NAME: waka-all-time
+          SECTION_NAME: waka
           LANG_COUNT: 7 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
