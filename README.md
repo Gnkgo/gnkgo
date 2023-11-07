@@ -1,17 +1,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 11 August 2023 - To: 04 November 2023
+From: 11 August 2023 - To: 05 November 2023
 
-Total Time: 82 hrs 54 mins
+Total Time: 85 hrs 8 mins
 
-TypeScript       41 hrs 47 mins  >>>>>>>>>>>>>------------   50.41 %
-TeX              17 hrs 14 mins  >>>>>--------------------   20.80 %
-CSS              14 hrs 41 mins  >>>>---------------------   17.71 %
-HTML             4 hrs 6 mins    >------------------------   04.96 %
-Markdown         2 hrs 57 mins   >------------------------   03.56 %
-Python           47 mins         -------------------------   00.95 %
-GDScript3        34 mins         -------------------------   00.70 %
+TypeScript       43 hrs 51 mins  >>>>>>>>>>>>>------------   51.51 %
+TeX              17 hrs 16 mins  >>>>>--------------------   20.29 %
+CSS              14 hrs 42 mins  >>>>---------------------   17.28 %
+HTML             4 hrs 6 mins    >------------------------   04.83 %
+Markdown         2 hrs 57 mins   >------------------------   03.47 %
+Python           54 mins         -------------------------   01.08 %
+GDScript3        34 mins         -------------------------   00.68 %
 ```
 
 <!--END_SECTION:waka-->
