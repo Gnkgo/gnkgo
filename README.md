@@ -5,17 +5,17 @@ Discover my projects and what I am up to. Here you can see how much time I spend
 <!--START_SECTION:waka-->
 
 ```python
-From: 30 October 2023 - To: 06 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-Total Time: 12 hrs 38 mins
+Total Time: 15 hrs 7 mins
 
-TypeScript     8 hrs           >>>>>>>>>>>>>>>>---------   63.34 %
-TeX            2 hrs 25 mins   >>>>>--------------------   19.24 %
-Python         1 hr 34 mins    >>>----------------------   12.39 %
-CoffeeScript   15 mins         >------------------------   02.09 %
-Markdown       14 mins         -------------------------   01.88 %
-CSS            3 mins          -------------------------   00.50 %
-JavaScript     3 mins          -------------------------   00.40 %
+TypeScript     8 hrs 1 min     >>>>>>>>>>>>>------------   53.03 %
+TeX            3 hrs 27 mins   >>>>>>-------------------   22.83 %
+JavaScript     1 hr 33 mins    >>>----------------------   10.30 %
+Python         1 hr 21 mins    >>-----------------------   09.02 %
+CoffeeScript   18 mins         -------------------------   01.99 %
+JSON           11 mins         -------------------------   01.29 %
+Markdown       7 mins          -------------------------   00.80 %
 ```
 
 <!--END_SECTION:waka-->
