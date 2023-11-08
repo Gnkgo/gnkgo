@@ -4,7 +4,7 @@ Discover my projects and what I am up to. Here you can see how much time I spend
 **Weekly statistic**
 <!--START_SECTION:waka-->
 
-```txt
+```ruby
 From: 31 October 2023 - To: 07 November 2023
 
 Total Time: 15 hrs 7 mins
