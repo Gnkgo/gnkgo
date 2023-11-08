@@ -20,8 +20,8 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           #SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: tex # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+          CODE_LANG: txt # optional
           TIME_RANGE: last_7_days # optional
           SECTION_NAME: waka
           LANG_COUNT: 7 # optional
@@ -45,8 +45,8 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           #SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: tex # optional
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
+          CODE_LANG: txt # optional
           TIME_RANGE: all_time # optional
           SECTION_NAME: waka2
           LANG_COUNT: 7 # optional
