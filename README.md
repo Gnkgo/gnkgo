@@ -1,4 +1,7 @@
+## Hi there
+Discover my projects and what I am up to. Here you can see how much time I spend coding :)
 
+**Weekly statistic**
 <!--START_SECTION:waka-->
 
 ```python
@@ -17,6 +20,8 @@ JavaScript     3 mins          -------------------------   00.40 %
 
 <!--END_SECTION:waka-->
 
+
+**All time statistic**
 <!--START_SECTION:waka2-->
 
 ```python
