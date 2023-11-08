@@ -24,7 +24,7 @@ Markdown       7 mins          -------------------------   00.80 %
 **All time statistic**
 <!--START_SECTION:waka2-->
 
-```python
+```tex
 From: 11 August 2023 - To: 07 November 2023
 
 Total Time: 91 hrs 12 mins
