@@ -25,7 +25,7 @@ HTML           21 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```scala
-From: 11 August 2023 - To: 10 November 2023
+From: 11 August 2023 - To: 11 November 2023
 
 Total Time: 99 hrs 11 mins
 
