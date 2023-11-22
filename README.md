@@ -1,7 +1,7 @@
 ## Hi there
 Discover my projects and what I am up to. Here you can see how much time I spend coding :)
 
-**Weekly statistic**
+**All time statistic**
 <!--START_SECTION:waka-->
 
 ```scala
@@ -21,7 +21,7 @@ JavaScript       2 hrs           ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
-**All time statistic**
+**Weekly statistic**
 <!--START_SECTION:waka2-->
 
 ```scala
