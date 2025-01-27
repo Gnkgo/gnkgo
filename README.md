@@ -25,7 +25,7 @@ Text             12 hrs 2 mins   ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```scala
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
 Total Time: 1 hr 21 mins
 
