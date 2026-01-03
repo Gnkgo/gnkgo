@@ -5,7 +5,7 @@ Discover my projects and what I am up to. Here you can see how much time I spend
 <!--START_SECTION:waka-->
 
 ```scala
-From: 11 August 2023 - To: 31 December 2025
+From: 11 August 2023 - To: 02 January 2026
 
 Total Time: 1,798 hrs 20 mins
 
