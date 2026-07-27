@@ -25,7 +25,7 @@ Markdown                   77 hrs 22 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```scala
-From: 17 July 2026 - To: 24 July 2026
+From: 19 July 2026 - To: 26 July 2026
 
 Total Time: 28 hrs 8 mins
 
