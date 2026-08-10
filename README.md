@@ -25,7 +25,7 @@ YAML                       79 hrs 11 mins        ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--START_SECTION:waka2-->
 
 ```scala
-From: 31 July 2026 - To: 07 August 2026
+From: 01 August 2026 - To: 08 August 2026
 
 Total Time: 24 hrs 21 mins
 
